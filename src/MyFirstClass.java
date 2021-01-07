@@ -7,10 +7,10 @@ class EvaluateString
         char[] tokens = expression.toCharArray();
 
         // Stack for numbers: 'values'
-        Stack<Integer> values = new Stack<Integer>();
+        Stack<Integer> values = new Stack<>();
 
         // Stack for Operators: 'ops'
-        Stack<Character> ops = new Stack<Character>();
+        Stack<Character> ops = new Stack<>();
 
         for (int i = 0; i < tokens.length; i++)
         {
@@ -21,7 +21,7 @@ class EvaluateString
             // Current token is a number, push it to stack for numbers
             if (tokens[i] >= '0' && tokens[i] <= '9')
             {
-                StringBuffer sbuf = new StringBuffer();
+                StringBuilder sbuf = new StringBuilder();
                 // There may be more than one digits in number
                 while (i < tokens.length && tokens[i] >= '0' && tokens[i] <= '9')
                     sbuf.append(tokens[i++]);
@@ -70,10 +70,7 @@ class EvaluateString
     {
         if (op2 == '(' || op2 == ')')
             return false;
-        if ((op1 == '*' || op1 == '/') && (op2 == '+' || op2 == '-'))
-            return false;
-        else
-            return true;
+        return ( op1 != '*' && op1 != '/' ) || ( op2 != '+' && op2 != '-' );
     }
 
     // A utility method to apply an operator 'op' on operands 'a'
