@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994c1952-6758-48e3-836b-3221a7f24996" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myFirstProject/EvaluateString.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/netslary.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.SumOfDigits">
+  <component name="RunManager" selected="Application.NetSalary">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="myFirstProject" />
@@ -74,10 +75,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfDigits" />
+    <configuration name="NetSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NetSalary" />
       <module name="myFirstProject" />
-      <option name="PROGRAM_PARAMETERS" value="123456" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,13 +99,13 @@
     <list>
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.EvaluateString" />
-      <item itemvalue="Application.SumOfDigits" />
+      <item itemvalue="Application.NetSalary" />
       <item itemvalue="Java Scratch.MyClass" />
       <item itemvalue="Java Scratch.scratch_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.NetSalary" />
         <item itemvalue="Application.EvaluateString" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Java Scratch.scratch_1" />
@@ -137,34 +137,34 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="73" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610384726957">
+    <state x="104" y="31" width="1071" height="826" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610386668172">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state x="104" y="73" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1610384726957" />
+    <state x="104" y="31" width="1071" height="826" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1610386668172" />
     <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610383479176">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.832@0.25.1440.832" timestamp="1610383479176" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1610384651471">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1610386645780">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1604613079016" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610384651471" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1610384651470">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610386645780" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1610386645780">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1604613079015" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.25.1440.832@0.25.1440.832" timestamp="1610384651470" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1610384651470">
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.25.1440.832@0.25.1440.832" timestamp="1610386645780" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1610386645779">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1604613079014" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.25.1440.832@0.25.1440.832" timestamp="1610384651470" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1610384651471">
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.25.1440.832@0.25.1440.832" timestamp="1610386645779" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1610386645780">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1604613079016" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1610384651471" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1610386645780" />
     <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1610384514766">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
