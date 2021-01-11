@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994c1952-6758-48e3-836b-3221a7f24996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MortagePayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MortagePayment">
+  <component name="RunManager" selected="Application.Mod">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="myFirstProject" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MortagePayment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MortagePayment" />
+    <configuration name="Mod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mod" />
       <module name="myFirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,13 +96,13 @@
     <list>
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.EvaluateString" />
-      <item itemvalue="Application.MortagePayment" />
+      <item itemvalue="Application.Mod" />
       <item itemvalue="Java Scratch.MyClass" />
       <item itemvalue="Java Scratch.scratch_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MortagePayment" />
+        <item itemvalue="Application.Mod" />
         <item itemvalue="Application.EvaluateString" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Java Scratch.scratch_1" />
@@ -134,34 +134,34 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610387141222">
+    <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610387343605">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1610387141222" />
+    <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1610387343605" />
     <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610383479176">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.832@0.25.1440.832" timestamp="1610383479176" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1610386946199">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1610387186708">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1604613079016" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610386946199" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1610386946197">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610387186708" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1610387186707">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1604613079015" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.25.1440.832@0.25.1440.832" timestamp="1610386946197" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1610386946196">
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.25.1440.832@0.25.1440.832" timestamp="1610387186707" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1610387186706">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1604613079014" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.25.1440.832@0.25.1440.832" timestamp="1610386946196" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1610386946198">
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.25.1440.832@0.25.1440.832" timestamp="1610387186706" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1610387186707">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1604613079016" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1610386946198" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1610387186707" />
     <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1610384514766">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
