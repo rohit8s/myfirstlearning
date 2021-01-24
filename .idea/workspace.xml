@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994c1952-6758-48e3-836b-3221a7f24996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SampleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sumofarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +59,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.SampleString">
+  <component name="RunManager" selected="Application.Sumofarray">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="myFirstProject" />
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SampleString" />
+    <configuration name="Sumofarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sumofarray" />
       <module name="myFirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,7 +98,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SampleString" />
+      <item itemvalue="Application.Sumofarray" />
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.EvaluateString" />
       <item itemvalue="Java Scratch.MyClass" />
@@ -105,7 +106,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SampleString" />
+        <item itemvalue="Application.Sumofarray" />
         <item itemvalue="Application.EvaluateString" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Java Scratch.scratch_1" />
@@ -137,34 +138,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611489250039">
+    <state x="104" y="25" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611489503969">
       <screen x="0" y="25" width="1440" height="830" />
     </state>
-    <state x="104" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.830/1440.25.1366.743@0.25.1440.830" timestamp="1611489250039" />
+    <state x="104" y="25" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.830/1440.25.1366.743@0.25.1440.830" timestamp="1611489503969" />
     <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1610387871307" />
     <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610383479176">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.832@0.25.1440.832" timestamp="1610383479176" />
-    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1610394293762">
-      <screen x="0" y="25" width="1440" height="832" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1611489262434">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1604613079016" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.25.1440.830/1440.25.1366.743@0.25.1440.830" timestamp="1611489262434" />
     <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610394293762" />
-    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1610394293761">
-      <screen x="0" y="25" width="1440" height="832" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1611489262432">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1604613079015" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.25.1440.830/1440.25.1366.743@0.25.1440.830" timestamp="1611489262432" />
     <state width="1398" height="265" key="GridCell.Tab.0.center/0.25.1440.832@0.25.1440.832" timestamp="1610394293761" />
-    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1610394293761">
-      <screen x="0" y="25" width="1440" height="832" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1611489262432">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1604613079014" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.25.1440.830/1440.25.1366.743@0.25.1440.830" timestamp="1611489262432" />
     <state width="1398" height="265" key="GridCell.Tab.0.left/0.25.1440.832@0.25.1440.832" timestamp="1610394293761" />
-    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1610394293762">
-      <screen x="0" y="25" width="1440" height="832" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1611489262433">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1604613079016" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.25.1440.830/1440.25.1366.743@0.25.1440.830" timestamp="1611489262433" />
     <state width="1398" height="265" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1610394293762" />
     <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1610394293763">
       <screen x="0" y="25" width="1440" height="832" />
