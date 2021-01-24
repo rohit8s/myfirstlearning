@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994c1952-6758-48e3-836b-3221a7f24996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DistanceTravelled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SampleString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1jYjwhaaSggNtDLCsy0iJpZjXKl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,14 +60,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.CalculateDistance">
-    <configuration name="CalculateDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculateDistance" />
-      <module name="myFirstProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SampleString">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="myFirstProject" />
@@ -74,6 +70,13 @@
     </configuration>
     <configuration name="EvaluateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EvaluateString" />
+      <module name="myFirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SampleString" />
       <module name="myFirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,15 +97,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SampleString" />
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.EvaluateString" />
-      <item itemvalue="Application.CalculateDistance" />
       <item itemvalue="Java Scratch.MyClass" />
       <item itemvalue="Java Scratch.scratch_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculateDistance" />
+        <item itemvalue="Application.SampleString" />
         <item itemvalue="Application.EvaluateString" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Java Scratch.scratch_1" />
@@ -134,50 +137,51 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610387871307">
-      <screen x="0" y="25" width="1440" height="832" />
+    <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611489250039">
+      <screen x="0" y="25" width="1440" height="830" />
     </state>
+    <state x="104" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.830/1440.25.1366.743@0.25.1440.830" timestamp="1611489250039" />
     <state x="104" y="25" width="1071" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.832@0.25.1440.832" timestamp="1610387871307" />
     <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1610383479176">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="457" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.832@0.25.1440.832" timestamp="1610383479176" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1610387737106">
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1610394293762">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1604613079016" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610387737106" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1610387737104">
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610394293762" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1610394293761">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1604613079015" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.25.1440.832@0.25.1440.832" timestamp="1610387737104" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1610387737103">
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.25.1440.832@0.25.1440.832" timestamp="1610394293761" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1610394293761">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1604613079014" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.25.1440.832@0.25.1440.832" timestamp="1610387737103" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1610387737105">
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.25.1440.832@0.25.1440.832" timestamp="1610394293761" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1610394293762">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1604613079016" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1610387737105" />
-    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1610384514766">
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.25.1440.832@0.25.1440.832" timestamp="1610394293762" />
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1610394293763">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610384514766" />
-    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1610384514765">
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.25.1440.832@0.25.1440.832" timestamp="1610394293763" />
+    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1610394293762">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.center/0.25.1440.832@0.25.1440.832" timestamp="1610384514765" />
-    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1610384514765">
+    <state width="1398" height="265" key="GridCell.Tab.1.center/0.25.1440.832@0.25.1440.832" timestamp="1610394293762" />
+    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1610394293762">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.left/0.25.1440.832@0.25.1440.832" timestamp="1610384514765" />
-    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1610384514766">
+    <state width="1398" height="265" key="GridCell.Tab.1.left/0.25.1440.832@0.25.1440.832" timestamp="1610394293762" />
+    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1610394293763">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
-    <state width="1398" height="265" key="GridCell.Tab.1.right/0.25.1440.832@0.25.1440.832" timestamp="1610384514766" />
+    <state width="1398" height="265" key="GridCell.Tab.1.right/0.25.1440.832@0.25.1440.832" timestamp="1610394293763" />
     <state x="208" y="24" key="SettingsEditor" timestamp="1604429890348">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
