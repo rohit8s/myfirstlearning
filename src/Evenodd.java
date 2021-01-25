@@ -8,10 +8,15 @@ public class Evenodd {
 
         System.out.print("Enter a number: ");
         int num = reader.nextInt();
+        Evenodd evenodd = new Evenodd();
+        System.out.println(evenodd.checkEvenOdd(num));
+    }
+    public int checkEvenOdd(int num)
+    {
 
         if(num % 2 == 0)
-            System.out.println(num*num );
+            return (num*num );
         else
-            System.out.println(num*num*num);
+            return (num*num*num);
     }
 }
