@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
-/* Java Program to find sum of elements in a given array  */
 class Sumofarray
 {
 
-    // method for sum of elements in an array
     public  int sum(int... arr)
     {
         int sum = 0; // initialize sum
@@ -15,7 +13,6 @@ class Sumofarray
         return sum;
     }
 
-    // Driver method
     public static void main(String[] args)
     {
 //        int[] arr = {12,3,4,15};

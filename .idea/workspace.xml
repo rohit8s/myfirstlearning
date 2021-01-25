@@ -20,11 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994c1952-6758-48e3-836b-3221a7f24996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Evenodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Evenodd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SampleString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sumofarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sumofarray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +64,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.SampleString">
+  <component name="RunManager" selected="Application.Sumofarray">
     <configuration name="Evenodd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Evenodd" />
       <module name="myFirstProject" />
@@ -114,8 +109,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SampleString" />
         <item itemvalue="Application.Sumofarray" />
+        <item itemvalue="Application.SampleString" />
         <item itemvalue="Application.Evenodd" />
         <item itemvalue="Application.RestApi" />
         <item itemvalue="Application.RestApiClient" />
