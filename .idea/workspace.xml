@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994c1952-6758-48e3-836b-3221a7f24996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.Palindrome2">
     <configuration name="Evenodd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Evenodd" />
       <module name="myFirstProject" />
@@ -74,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+    <configuration name="Palindrome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome2" />
       <module name="myFirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,12 +104,12 @@
       <item itemvalue="Application.Evenodd" />
       <item itemvalue="Application.RestApiClient" />
       <item itemvalue="Application.RestApi" />
-      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.Palindrome2" />
       <item itemvalue="Application.SampleString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Palindrome2" />
         <item itemvalue="Application.SampleString" />
         <item itemvalue="Application.Evenodd" />
         <item itemvalue="Application.RestApi" />
